@@ -18,6 +18,7 @@ for completing the project:
    datasets and libraries and experiment with whether your representations
    result in greater model accuracy.
 
+
 3. **Open Problem/Research.** You are welcome to work on an independent research project
    that involves machine learning and computer systems. This option is
    probably better suited for graduate students in computer science who are
